@@ -8,7 +8,7 @@
 	scroll-behavior: smooth;
 }
 section{
-	padding: 100px;
+	padding: 80px;
 }
 
 
@@ -127,6 +127,7 @@ header.sticky ul li a{
 }
 .w50{
 	min-width:30%;
+	
 }
 img{
 	
@@ -134,9 +135,9 @@ img{
 	max-height:100%;
 }
 .img{
-	border-radius: 12px;
+	border-radius: 3px;
 	height: 300px;
-	border: 4px solid black;
+	border: 1px solid black;
 }
 
 .projects{
@@ -355,7 +356,7 @@ img{
 		filter:invert(1);
 	}
 	section{
-		padding: 100px 50px;
+		padding: 80px 50px;
 	}
 	.banner{
 		padding: 150px 50px 100px;
@@ -415,7 +416,7 @@ img{
 		width: 500px;
 	}
 	section{
-		padding:100px 20px;
+		padding:80px 20px;
 	}
 }
 
